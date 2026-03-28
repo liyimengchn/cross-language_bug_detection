@@ -33,10 +33,8 @@ This folder contains the scripts used in our experiments. Below are details of t
 - `requirements_L20.txt`: Python packages for L20 GPU environment
 
 ## Setting Up the Experiment Environment
-1. Clone the repository:
-```bash
-git clone git@github.com:xxx/crosslanguage_bug_detection.git
-```
+1. Clone the repository
+
 2. Create a Python environment:
 ```bash
 conda create -n crosslang_env python=3.8
