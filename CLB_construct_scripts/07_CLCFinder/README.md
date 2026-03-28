@@ -16,11 +16,6 @@ CLCFinder currently supports three mainstream programming languages: Java, C/C++
 ## 1. Download/Clone the CLCFinder Toolkit
 Clone this repository to a suitable location and ensure that the runtime path can be accessed correctly. You can integrate CLCFinder into your own analysis workflow as needed
 
-```bash
-git clone git@github.com:liyimeng0915/crosslanguage_bug_detection.git
-```
-
-
 
 ## 2. Prepare the Target Code Repository
 Prepare a local code repository to be analyzed. The repository should contain source files written in at least two different programming languages, and these languages must include at least two of the following: Java, C/C++, and Python.
