@@ -17,7 +17,7 @@ CLCFinder currently supports three mainstream programming languages: Java, C/C++
 Clone this repository to a suitable location and ensure that the runtime path can be accessed correctly. You can integrate CLCFinder into your own analysis workflow as needed
 
 ```bash
-git clone git@github.com:liyimeng0915/crosslanguage_bug_detection.git
+git clone git@github.com:xxx/crosslanguage_bug_detection.git
 ```
 
 
