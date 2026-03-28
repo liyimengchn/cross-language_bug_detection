@@ -1,5 +1,5 @@
 # Cross-Language Bug Detection
-This repository contains the code and datasets used in the experiments of our research paper—`Fine-Tuning Code Language Models to Detect Cross-Language Bugs`. It serves as a replication package to facilitate the reproduction of the results presented in the paper.
+This repository contains the code and datasets used in the experiments of our research paper—`xxx`. It serves as a replication package to facilitate the reproduction of the results presented in the paper.
 
 ## Structure of the Repository
 
@@ -35,7 +35,7 @@ This folder contains the scripts used in our experiments. Below are details of t
 ## Setting Up the Experiment Environment
 1. Clone the repository:
 ```bash
-git clone git@github.com:liyimeng0915/crosslanguage_bug_detection.git
+git clone git@github.com:xxx/crosslanguage_bug_detection.git
 ```
 2. Create a Python environment:
 ```bash
